@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My Name is Franco, Im a Junior Software Developer
+I'm currently learning Angular
+
 <!--
 **fr4ncopiscoya/fr4ncopiscoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
