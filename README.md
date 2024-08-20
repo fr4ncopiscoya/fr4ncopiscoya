@@ -1,6 +1,6 @@
 
 
-<p><img align="right" height="270px" width="350" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></'p>
+<p><img align="right" height="400px" width="350" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></'p>
  
 ### <h1>Hi there 👋 I am Gian Piscoya</h1>
 
@@ -11,8 +11,6 @@
 - 📫 How to reach me **fr4ncopiscoya@gmail.com**
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 - 💬 Ask me about: Web Development
-- 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
-	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
 ## 💻 Technologies 
