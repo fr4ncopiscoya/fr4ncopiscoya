@@ -1,6 +1,6 @@
 
 
-<p><img align="right" height="390px" width="350" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></'p>
+<p><img align="right" height="350px" width="320" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></'p>
  
 ### <h1>Hi there 👋 I am Gian Piscoya</h1>
 
